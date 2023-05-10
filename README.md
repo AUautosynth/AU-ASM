@@ -24,11 +24,9 @@ The software can also be used as a python module, allowing full freedom for the 
 
 ### Modules
 The modules of the ASM includes:
-- [x] Standard vial tray
-- [x] Needle header
-- [x] Pump
+- [x] Dosing
 - [x] Stirring
-- [x] Inert tray
+- [x] Atmospheric control
 
 ## Getting Started
 
