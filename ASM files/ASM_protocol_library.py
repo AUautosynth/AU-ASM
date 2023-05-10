@@ -109,7 +109,16 @@ def readexcel():
         namelist.append(i)
     syringe_info.index = namelist
     syringe_info.drop("Syringe_volume", axis=1, inplace=True)
-    return(settingsdf,vialdf,vialinformation,syringe_info)    
+
+    # Save the position of the X and Y coordinates, remove the index and replace with the random, then conjoin them
+
+
+    randomized_dataframes = vialdf.sample(frac=1)
+    randomized_dataframes.to_csv(file_path.split("/")[-1].split(".")[0] + " - run data" + '.csv')
+    vialdf = randomized_dataframes
+    vialinformation.index = vialdf.index
+
+    return(settingsdf,vialdf,vialinformation,syringe_info)
 
 def get_offset():
     global x_correct
