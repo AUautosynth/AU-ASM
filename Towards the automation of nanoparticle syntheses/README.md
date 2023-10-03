@@ -11,9 +11,8 @@ capacity mixing up to 5 different solutions in inert atmosphere. The machine can
 
 ![The machine](https://github.com/AUautosynth/AU-ASM/blob/main/Towards%20the%20automation%20of%20nanoparticle%20syntheses/assets/images/Assembledmachine.png)
 
-The ASM can be seen in the picture above where ***a*** is the PWM controllers for the stirrers, ***b*** is the stirrers, 
-***c*** is an inert vial box to work within a controlled atmosphere, ***d*** is the dosing head, ***e*** is the pumps which are upheld by a steel beam secured to monkey bars
-in the fumehood and finally ***f*** is the bluecap flask working as a solution reservoir.
+The ASM can be seen in the picture above, the new additions have been marked where ***a*** is the dosing head, ***b*** is the cuvette module, 
+***c*** are the pumps hanging on fumehood monkey bars.
 
 The estimated cost of the machine is below 2500 EUR, see BoM under assets.
 The layout and controlling python scrpit makes it easy to create your own protocols but a standard mixing protocol as well as a 
