@@ -1,0 +1,58 @@
+Dosing Method: test_method
+Reaction module: Cuvette module
+Number of reaction vessels: 45
+Max Volume: 3.0
+Waste: [180, 180]
+Beaker height: 5
+Safety height: 30
+Vial height: 3
+Machine speed: 50
+Pump 1 speed: 10
+Viscous solution 1: 0
+Pump 1: 2mL Braun (water)
+index	Solution 1	x-coordinate	y-coordinate
+Experiment 1	0.0	28	16
+	nan	56	16
+	nan	84	16
+	nan	113	16
+	nan	142	16
+	nan	171	16
+	nan	199	16
+	nan	28	44
+	nan	56	44
+	nan	84	44
+	nan	113	44
+	nan	142	44
+	nan	171	44
+	nan	199	44
+	nan	28	72
+	nan	56	72
+	nan	84	72
+	nan	113	72
+	nan	142	72
+	nan	171	72
+	nan	199	72
+	nan	28	100
+	nan	56	100
+	nan	84	100
+	nan	113	100
+	nan	142	100
+	nan	171	100
+	nan	199	100
+	nan	28	129
+	nan	56	129
+	nan	84	129
+	nan	113	129
+	nan	142	129
+	nan	171	129
+	nan	199	129
+	nan	28	158
+	nan	56	158
+	nan	84	158
+	nan	113	158
+	nan	142	158
+	nan	28	186
+	nan	56	186
+	nan	84	186
+	nan	113	186
+	nan	142	186

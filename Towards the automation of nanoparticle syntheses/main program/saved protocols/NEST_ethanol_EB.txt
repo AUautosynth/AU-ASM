@@ -1,0 +1,67 @@
+Dosing Method: standard_method						
+Reaction module: Cuvette module						
+Number of reaction vessels: 45						
+Max Volume: 3.0						
+Waste: [180, 180]						
+Beaker height: 5						
+Safety height: 10						
+Vial height: 3						
+Machine speed: 50						
+Pump 1 speed: 5						
+Pump 2 speed: 5						
+Pump 3 speed: 5						
+Pump 4 speed: 5						
+Viscous solution 1: 0						
+Viscous solution 2: 0						
+Viscous solution 3: 0						
+Viscous solution 4: 0						
+Pump 1: 2mL Braun (water)						
+Pump 2: 1 mL Braun (water) no b						
+Pump 3: 2mL Braun (water)						
+Pump 4: 1 mL Braun (water) no b						
+index	Solution 1	Solution 2	Solution 3	Solution 4	x-coordinate	y-coordinate
+Experiment 1	0.625	0.09	1.7625	0.0225	199	16
+Experiment 2	0.625	0.095	1.7575	0.0225	171	16
+Experiment 3	0.625	0.1	1.7525	0.0225	142	16
+Experiment 4	0.625	0.105	1.7475	0.0225	113	16
+Experiment 5	0.625	0.11	1.7425	0.0225	84	16
+Experiment 6	0.625	0.09	1.7538	0.0313	56	16
+Experiment 7	0.625	0.095	1.7488	0.0313	28	16
+Experiment 8	0.625	0.1	1.7438	0.0313	199	44
+Experiment 9	0.625	0.105	1.7388	0.0313	171	44
+Experiment 10	0.625	0.11	1.7338	0.0313	142	44
+Experiment 11	0.625	0.09	1.7225	0.0625	113	44
+Experiment 12	0.625	0.095	1.7175	0.0625	84	44
+Experiment 13	0.625	0.1	1.7125	0.0625	56	44
+Experiment 14	0.625	0.105	1.7075	0.0625	28	44
+Experiment 15	0.625	0.11	1.7025	0.0625	199	72
+Experiment 16	0.625	0.09	1.6913	0.0938	171	72
+Experiment 17	0.625	0.095	1.6863	0.0938	142	72
+Experiment 18	0.625	0.1	1.6813	0.0938	113	72
+Experiment 19	0.625	0.105	1.6763	0.0938	84	72
+Experiment 20	0.625	0.11	1.6713	0.0938	56	72
+Experiment 21	0.625	0.09	1.66	0.125	28	72
+Experiment 22	0.625	0.095	1.655	0.125	199	100
+Experiment 0	0	0	0	0	171	100
+Experiment 0	0	0	0	0	142	100
+Experiment 23	0.625	0.1	1.65	0.125	113	100
+Experiment 25	0.625	0.105	1.645	0.125	84	100
+Experiment 26	0.625	0.11	1.64	0.125	56	100
+	nan	nan	nan	nan	28	100
+	nan	nan	nan	nan	199	129
+	nan	nan	nan	nan	171	129
+	nan	nan	nan	nan	142	129
+	nan	nan	nan	nan	113	129
+	nan	nan	nan	nan	84	129
+	nan	nan	nan	nan	56	129
+	nan	nan	nan	nan	28	129
+	nan	nan	nan	nan	142	158
+	nan	nan	nan	nan	113	158
+	nan	nan	nan	nan	84	158
+	nan	nan	nan	nan	56	158
+	nan	nan	nan	nan	28	158
+	nan	nan	nan	nan	142	186
+	nan	nan	nan	nan	113	186
+	nan	nan	nan	nan	84	186
+	nan	nan	nan	nan	56	186
+	nan	nan	nan	nan	28	186

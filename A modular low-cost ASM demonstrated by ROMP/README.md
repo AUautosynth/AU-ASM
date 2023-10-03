@@ -1,7 +1,6 @@
 # Automatic Synthesis Machine
 
 The purpose of this project is to create a low cost open-source machine for the automation of laboratory work.
-This github contains the first rendition of the ASM. To see the following work of this group and all the upgrades on the ASM, [follow this link](https://github.com/AUautosynth/AU-ASM).
 
 ![](/assets/images/ASM_foodcolor_gif.gif)
 

@@ -1,0 +1,61 @@
+Dosing Method: custom_timed
+Reaction module: Cuvette module
+Number of reaction vessels: 45
+Max Volume: 3.0
+Waste: [180, 180]
+Beaker height: 5
+Safety height: 10
+Vial height: 3
+Machine speed: 50
+Pump 1 speed: 5
+Pump 2 speed: 5
+Viscous solution 1: 0
+Viscous solution 2: 0
+Pump 1: 1 mL Braun (water) no b
+Pump 2: 1 mL Braun (water)
+index	Solution 1	Solution 2	Priority Solution 1	Priority Solution 2	Timer Priority 2	x-coordinate	y-coordinate
+Experiment 1	2.0	3.0	1.0	2.0	10.0	199	16
+Experiment 2	2.0	3.0	2.0	1.0	10.0	171	16
+Experiment 1	2.0	3.0	1.0	2.0	10.0	142	16
+Experiment 2	2.0	3.0	2.0	1.0	10.0	113	16
+	nan	nan	nan	nan	nan	84	16
+	nan	nan	nan	nan	nan	56	16
+	nan	nan	nan	nan	nan	28	16
+	nan	nan	nan	nan	nan	199	44
+	nan	nan	nan	nan	nan	171	44
+	nan	nan	nan	nan	nan	142	44
+	nan	nan	nan	nan	nan	113	44
+	nan	nan	nan	nan	nan	84	44
+	nan	nan	nan	nan	nan	56	44
+	nan	nan	nan	nan	nan	28	44
+	nan	nan	nan	nan	nan	199	72
+	nan	nan	nan	nan	nan	171	72
+	nan	nan	nan	nan	nan	142	72
+	nan	nan	nan	nan	nan	113	72
+	nan	nan	nan	nan	nan	84	72
+	nan	nan	nan	nan	nan	56	72
+	nan	nan	nan	nan	nan	28	72
+	nan	nan	nan	nan	nan	199	100
+	nan	nan	nan	nan	nan	171	100
+	nan	nan	nan	nan	nan	142	100
+	nan	nan	nan	nan	nan	113	100
+	nan	nan	nan	nan	nan	84	100
+	nan	nan	nan	nan	nan	56	100
+	nan	nan	nan	nan	nan	28	100
+	nan	nan	nan	nan	nan	199	129
+	nan	nan	nan	nan	nan	171	129
+	nan	nan	nan	nan	nan	142	129
+	nan	nan	nan	nan	nan	113	129
+	nan	nan	nan	nan	nan	84	129
+	nan	nan	nan	nan	nan	56	129
+	nan	nan	nan	nan	nan	28	129
+	nan	nan	nan	nan	nan	142	158
+	nan	nan	nan	nan	nan	113	158
+	nan	nan	nan	nan	nan	84	158
+	nan	nan	nan	nan	nan	56	158
+	nan	nan	nan	nan	nan	28	158
+	nan	nan	nan	nan	nan	142	186
+	nan	nan	nan	nan	nan	113	186
+	nan	nan	nan	nan	nan	84	186
+	nan	nan	nan	nan	nan	56	186
+	nan	nan	nan	nan	nan	28	186

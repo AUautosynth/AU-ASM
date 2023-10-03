@@ -1,0 +1,75 @@
+Dosing Method: NEST_standard_method
+Reaction module: Cuvette module
+Number of reaction vessels: 45
+Max Volume: 3.0
+Waste: [180, 180]
+Beaker height: 5
+Safety height: 10
+Vial height: 3
+Machine speed: 50
+Pump 1 speed: 5
+Pump 2 speed: 5
+Pump 3 speed: 1
+Pump 4 speed: 5
+Viscous solution 1: 0
+Viscous solution 2: 0
+Viscous solution 3: 1
+Viscous solution 4: 0
+Gantry position 1: -2
+Gantry position 2: -1
+Gantry position 3: 0
+Gantry position 4: 1
+Waste coordinate 1: 160.0,160.0
+Waste coordinate 2: 180.0,180.0
+Waste coordinate 3: 180.0,180.0
+Waste coordinate 4: 180.0,180.0
+Pump 1: 2mL Braun (water)
+Pump 2: 1 mL Braun (water) no b
+Pump 3: 2 mL Braun (glycerol 80%)
+Pump 4: 1 mL Braun (water) no b
+index	Solution 1	Solution 2	Solution 3	Solution 4	x-coordinate	y-coordinate
+Experiment 1	0.058	0.148	2.465	0.3289	199	16
+Experiment 2	0.0842	0.1218	2.465	0.3289	171	16
+Experiment 3	0.1074	0.0987	2.465	0.3289	142	16
+Experiment 4	0.133	0.0731	2.465	0.3289	113	16
+Experiment 5	0.1567	0.0493	2.465	0.3289	84	16
+Experiment 6	0.1814	0.0247	2.465	0.3289	56	16
+Experiment 7	0.676	0.148	1.847	0.3289	28	16
+Experiment 8	0.7007	0.1218	1.847	0.3289	199	44
+Experiment 9	0.7254	0.0987	1.847	0.3289	171	44
+Experiment 10	0.75	0.0731	1.847	0.3289	142	44
+Experiment 11	0.7747	0.0493	1.847	0.3289	113	44
+Experiment 12	0.7994	0.0247	1.847	0.3289	84	44
+Experiment 13	1.293	0.148	1.23	0.3289	56	44
+Experiment 14	1.3177	0.1218	1.23	0.3289	28	44
+Experiment 15	1.3424	0.0987	1.23	0.3289	199	72
+Experiment 16	1.367	0.0731	1.23	0.3289	171	72
+Experiment 17	1.3917	0.0493	1.23	0.3289	142	72
+Experiment 18	1.4164	0.0247	1.23	0.3289	113	72
+Experiment 19	1.908	0.148	0.615	0.3289	84	72
+Experiment 20	1.9327	0.1218	0.615	0.3289	56	72
+Experiment 21	1.9574	0.0987	0.615	0.3289	28	72
+Experiment 22	1.982	0.0731	0.615	0.3289	199	100
+Experiment 23	2.0067	0.0493	0.615	0.3289	171	100
+Experiment 24	2.0314	0.0247	0.615	0.3289	142	100
+	nan	nan	nan	nan	113	100
+	nan	nan	nan	nan	84	100
+	nan	nan	nan	nan	56	100
+	nan	nan	nan	nan	28	100
+	nan	nan	nan	nan	199	129
+	nan	nan	nan	nan	171	129
+	nan	nan	nan	nan	142	129
+	nan	nan	nan	nan	113	129
+	nan	nan	nan	nan	84	129
+	nan	nan	nan	nan	56	129
+	nan	nan	nan	nan	28	129
+	nan	nan	nan	nan	142	158
+	nan	nan	nan	nan	113	158
+	nan	nan	nan	nan	84	158
+	nan	nan	nan	nan	56	158
+	nan	nan	nan	nan	28	158
+	nan	nan	nan	nan	142	186
+	nan	nan	nan	nan	113	186
+	nan	nan	nan	nan	84	186
+	nan	nan	nan	nan	56	186
+	nan	nan	nan	nan	28	186
