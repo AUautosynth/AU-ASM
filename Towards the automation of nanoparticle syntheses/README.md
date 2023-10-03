@@ -2,14 +2,14 @@
 
 The purpose of this project is to create a low cost open-source machine for the automation of laboratory work.
 
-![](/assets/images/ASM_foodcolor_gif.gif)
+![](https://github.com/AUautosynth/AU-ASM/blob/main/Towards%20the%20automation%20of%20nanoparticle%20syntheses/assets/images/ASM_foodcolor_gif.gif)
 
 ## Description
 
 The machine (ASM) consists of a modified 3D printer that can run up to 45 stirred batch reactions at 5.5 ml 
 capacity mixing up to 5 different solutions in inert atmosphere. The machine can be seen below.
 
-![The machine](/assets/images/Assembledmachine.png)
+![The machine](https://github.com/AUautosynth/AU-ASM/blob/main/Towards%20the%20automation%20of%20nanoparticle%20syntheses/assets/images/Assembledmachine.png)
 
 The ASM can be seen in the picture above where ***a*** is the PWM controllers for the stirrers, ***b*** is the stirrers, 
 ***c*** is an inert vial box to work within a controlled atmosphere, ***d*** is the dosing head, ***e*** is the pumps which are upheld by a steel beam secured to monkey bars
@@ -17,10 +17,8 @@ in the fumehood and finally ***f*** is the bluecap flask working as a solution r
 
 The estimated cost of the machine is below 2500 EUR, see BoM under assets.
 The layout and controlling python scrpit makes it easy to create your own protocols but a standard mixing protocol as well as a 
-calibration protocol is already made. The software in this repository can either be used as a plug and play solution, 
-where a experimental protocol file (.xlsx) is exectued through the ASM program.exe. 
-The software can also be used as a python module, allowing full freedom for the user. The current machine is made up in modules, so that its
- capabilities can be interchanged based on your needs.
+calibration protocol is already made. To setup and install your own ASM, checkout the PDF guide written. In there, the hardware and software is explained in depth.
+The current machine is made up in modules, so that its capabilities can be interchanged based on your needs.
 
 ### Modules
 The modules of the ASM includes:
@@ -34,7 +32,6 @@ The modules of the ASM includes:
 
 * Latest [arduino IDE](https://www.arduino.cc/en/software).
 * [Python 3.9.7](https://www.python.org/downloads/) or higher.
-* Excel but a similar program for modifying .xlsx files like [Apache Calc](https://www.openoffice.org/product/calc.html) can also be used.
 * For script usage we recommend using either the latest version of [spyder](https://www.spyder-ide.org/) or [pycharm community edition](https://www.jetbrains.com/pycharm/download/#section=windows).
 * A 3D printer with a modifiable PCB ([Preferably Ramps 1.4](https://reprap.org/wiki/RAMPS_1.4))
 * All necessary CAD and STL files can be found under assets
@@ -44,26 +41,14 @@ The modules of the ASM includes:
 - Download the repository as a .zip file and extract it into a folder.
 - Install the modified Marlin firmware on the 3D printer PCB found in the firmware folder.
 
-### Using the code as a module
-
-To use the ASMlibrary as a module take the 'ASMlibrary.py' file and put it into the same folder as the .py file you want to use as the "run-file"
-An example of a standard dosage protocol usage is shown below:
-```
-ASMlibrary.start_sequence(syringe_size=10, pumps=3, offset=True, pump=True)
-
-ASMlibrary.standard_dosage()
-
-ASMlibrary.end_sequence(pumps=3)
-```
-
 
 ### Using the machine
 This shows a standard procedure for the operation of an experiment using the machine.
 
-1. Create the experiment protocol from the excel template.
+1. Create the experiment protocol.
 2. Add vials and tubing to the machine.
 3. Prepare the stock solutions.
-4. Run the python script and chose the excel file you have made.
+4. Press run.
 
 ## Authors
 Jakob Saugbjerg (jrs@bce.au.dk)
@@ -76,6 +61,12 @@ Martin Lahn (lahn@bce.au.dk)
 
 
 ## Version History
+
+*2.0
+   * Integrated the protocol creator into the python software
+   * Added a timed start to the protocol
+   * Added a control feature to adjust the X, Y and Z axis.
+   * Adjusted the pump setup so they can pump high viscosity liquids (Glycose 80%) and smaller dosings (20 microliters)
 
 * 1.0
     * Initial Release
