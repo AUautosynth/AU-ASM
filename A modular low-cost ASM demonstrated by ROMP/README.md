@@ -9,7 +9,7 @@ The purpose of this project is to create a low cost open-source machine for the 
 The machine (ASM) consists of a modified 3D printer that can run up to 45 stirred batch reactions at 5.5 ml 
 capacity mixing up to 5 different solutions in inert atmosphere. The machine can be seen below.
 
-![The machine](/assets/images/Assembledmachine.png)
+![The machine](/A modular low-cost ASM demonstrated by ROMP/assets/images/Assembledmachine.png)
 
 The ASM can be seen in the picture above where ***a*** is the PWM controllers for the stirrers, ***b*** is the stirrers, 
 ***c*** is an inert vial box to work within a controlled atmosphere, ***d*** is the dosing head, ***e*** is the pumps which are upheld by a steel beam secured to monkey bars
