@@ -62,7 +62,7 @@ Martin Lahn (lahn@bce.au.dk)
 
 ## Version History
 
-*2.0
+* 2.0
    * Integrated the protocol creator into the python software
    * Added a timed start to the protocol
    * Added a control feature to adjust the X, Y and Z axis.
