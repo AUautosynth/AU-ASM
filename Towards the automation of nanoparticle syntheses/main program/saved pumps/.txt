@@ -1,0 +1,6 @@
+Pump type:Micro pump
+Syringe size:
+a:
+b:
+a_speed:1.1171
+b_speed:0.3199

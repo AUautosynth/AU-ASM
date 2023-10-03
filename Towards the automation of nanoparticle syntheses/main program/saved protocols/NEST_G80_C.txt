@@ -1,0 +1,67 @@
+Dosing Method: NEST_standard_method
+Reaction module: Cuvette module
+Number of reaction vessels: 45
+Max Volume: 3.0
+Waste: [180, 180]
+Beaker height: 5
+Safety height: 10
+Vial height: 3
+Machine speed: 50
+Pump 1 speed: 5
+Pump 2 speed: 5
+Pump 3 speed: 1
+Pump 4 speed: 5
+Viscous solution 1: 0
+Viscous solution 2: 0
+Viscous solution 3: 1
+Viscous solution 4: 0
+Pump 1: 2mL Braun (water)
+Pump 2: 1 mL Braun (water) no b
+Pump 3: 2 mL Braun (glycerol 80%)
+Pump 4: 1 mL Braun (water) no b
+index	Solution 1	Solution 2	Solution 3	Solution 4	x-coordinate	y-coordinate
+Experiment 1	1.42	0.3	1.23	0.05	199	16
+Experiment 2	1.47	0.25	1.23	0.05	171	16
+Experiment 3	1.52	0.2	1.23	0.05	142	16
+Experiment 4	1.57	0.15	1.23	0.05	113	16
+Experiment 5	1.62	0.1	1.23	0.05	84	16
+Experiment 6	1.67	0.05	1.23	0.05	56	16
+Experiment 7	2.035	0.3	0.615	0.05	28	16
+Experiment 8	2.085	0.25	0.615	0.05	199	44
+Experiment 9	2.135	0.2	0.615	0.05	171	44
+Experiment 10	2.185	0.15	0.615	0.05	142	44
+Experiment 11	2.235	0.1	0.615	0.05	113	44
+Experiment 12	2.285	0.05	0.615	0.05	84	44
+Experiment 13	0.01	0.45	2.465	0.075	56	44
+Experiment 14	0.085	0.375	2.465	0.075	28	44
+Experiment 15	0.16	0.3	2.465	0.075	199	72
+Experiment 16	0.235	0.225	2.465	0.075	171	72
+Experiment 17	0.31	0.15	2.465	0.075	142	72
+Experiment 18	0.385	0.075	2.465	0.075	113	72
+Experiment 19	0.628	0.45	1.847	0.075	84	72
+Experiment 20	0.703	0.375	1.847	0.075	56	72
+Experiment 21	0.778	0.3	1.847	0.075	28	72
+Experiment 22	0.853	0.225	1.847	0.075	199	100
+Experiment 23	0.928	0.15	1.847	0.075	171	100
+Experiment 24	1.003	0.075	1.847	0.075	142	100
+Experiment 25	1.245	0.45	1.23	0.075	113	100
+Experiment 26	1.32	0.375	1.23	0.075	84	100
+Experiment 27	1.395	0.3	1.23	0.075	56	100
+Experiment 28	1.47	0.225	1.23	0.075	28	100
+Experiment 29	1.545	0.15	1.23	0.075	199	129
+Experiment 30	1.62	0.075	1.23	0.075	171	129
+Experiment 31	1.86	0.45	0.615	0.075	142	129
+Experiment 32	1.935	0.375	0.615	0.075	113	129
+Experiment 33	2.01	0.3	0.615	0.075	84	129
+Experiment 34	2.085	0.225	0.615	0.075	56	129
+Experiment 35	2.16	0.15	0.615	0.075	28	129
+Experiment 36	2.235	0.075	0.615	0.075	142	158
+	nan	nan	nan	nan	113	158
+	nan	nan	nan	nan	84	158
+	nan	nan	nan	nan	56	158
+	nan	nan	nan	nan	28	158
+	nan	nan	nan	nan	142	186
+	nan	nan	nan	nan	113	186
+	nan	nan	nan	nan	84	186
+	nan	nan	nan	nan	56	186
+	nan	nan	nan	nan	28	186

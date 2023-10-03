@@ -1,0 +1,6 @@
+Pump type:Valve pump
+Syringe size:1
+a:0.3462
+b:0
+a_speed:1.1171
+b_speed:0.3199

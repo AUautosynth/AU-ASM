@@ -1,0 +1,67 @@
+Dosing Method: NEST_standard_method
+Reaction module: Cuvette module
+Number of reaction vessels: 45
+Max Volume: 3.0
+Waste: [180, 180]
+Beaker height: 5
+Safety height: 30
+Vial height: 3
+Machine speed: 50
+Pump 1 speed: 5
+Pump 2 speed: 3
+Pump 3 speed: 5
+Pump 4 speed: 3
+Viscous solution 1: 0
+Viscous solution 2: 0
+Viscous solution 3: 1
+Viscous solution 4: 0
+Pump 1: 2mL Braun (water)
+Pump 2: 1 mL Braun (water)
+Pump 3: 2 mL Braun (glycerol 80%)
+Pump 4: 1 mL Braun (water)
+index	Solution 1	Solution 2	Solution 3	Solution 4	x-coordinate	y-coordinate
+Experiment 1	0.5	0.03	0.5	0.041	28	16
+Experiment 1	0.5	0.03	0.5	0.041	56	16
+Experiment 1	0	0	0	0	84	16
+	nan	nan	nan	nan	113	16
+	nan	nan	nan	nan	142	16
+	nan	nan	nan	nan	171	16
+	nan	nan	nan	nan	199	16
+	nan	nan	nan	nan	28	44
+	nan	nan	nan	nan	56	44
+	nan	nan	nan	nan	84	44
+	nan	nan	nan	nan	113	44
+	nan	nan	nan	nan	142	44
+	nan	nan	nan	nan	171	44
+	nan	nan	nan	nan	199	44
+	nan	nan	nan	nan	28	72
+	nan	nan	nan	nan	56	72
+	nan	nan	nan	nan	84	72
+	nan	nan	nan	nan	113	72
+	nan	nan	nan	nan	142	72
+	nan	nan	nan	nan	171	72
+	nan	nan	nan	nan	199	72
+	nan	nan	nan	nan	28	100
+	nan	nan	nan	nan	56	100
+	nan	nan	nan	nan	84	100
+	nan	nan	nan	nan	113	100
+	nan	nan	nan	nan	142	100
+	nan	nan	nan	nan	171	100
+	nan	nan	nan	nan	199	100
+	nan	nan	nan	nan	28	129
+	nan	nan	nan	nan	56	129
+	nan	nan	nan	nan	84	129
+	nan	nan	nan	nan	113	129
+	nan	nan	nan	nan	142	129
+	nan	nan	nan	nan	171	129
+	nan	nan	nan	nan	199	129
+	nan	nan	nan	nan	28	158
+	nan	nan	nan	nan	56	158
+	nan	nan	nan	nan	84	158
+	nan	nan	nan	nan	113	158
+	nan	nan	nan	nan	142	158
+	nan	nan	nan	nan	28	186
+	nan	nan	nan	nan	56	186
+	nan	nan	nan	nan	84	186
+	nan	nan	nan	nan	113	186
+	nan	nan	nan	nan	142	186
