@@ -363,7 +363,11 @@ def create_experiment_window(window):
 
         # reads the python script as a string and executes it line for line
         folder_path = os.getcwd()
-        method = settings.method + ".py"
+        method = settings.method
+        if method[-3:] == ".py":
+            pass
+        else:
+            method = method + ".py"
         # Sets up a timer
         wait_operator() # if it should start delayed
         thread_countdown() # to estimate how much time it would take to run

@@ -35,7 +35,7 @@ def create_volume_entry_table(number_of_solutions, number_of_experiments, n_repe
                     row_entries.append(0)
                 else:
                     row_entries.append(float(entry_value))
-            volume.append(row_entries[0])
+            volume.append(row_entries)
         # create the dataframe and rename the rows and columns iteratively
         volume_df = pd.DataFrame(volume)
         for n, row_name in enumerate(volume_df.index):
